@@ -1,0 +1,9 @@
+{
+    "Hello": "हेलो",
+    "See the Hello page": "हेलो पेज देखें",
+    "Hello settings": "हेलो सेटिंग",
+    "Hello from your first ISPGrid add-on.": "आपके पहले ISPGrid ऐड-ऑन की ओर से नमस्ते।",
+    "A page from an add-on. Change the greeting on System, then Add-ons.": "एक ऐड-ऑन का पेज। अभिवादन सिस्टम, फिर ऐड-ऑन में बदलें।",
+    "Greeting": "अभिवादन",
+    "Shown on the Hello page. Leave empty for the default.": "हेलो पेज पर दिखता है। डिफ़ॉल्ट के लिए खाली छोड़ें।"
+}

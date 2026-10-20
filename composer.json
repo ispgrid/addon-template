@@ -1,0 +1,28 @@
+{
+    "name": "acme/hello",
+    "description": "Hello for ISPGrid: a starting point for your own add-on.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "you@example.com"
+        }
+    ],
+    "require": {
+        "php": "^8.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Acme\\Hello\\": "src/"
+        }
+    },
+    "extra": {
+        "ispgrid": {
+            "name": "Hello",
+            "core": ["0.1"],
+            "providers": ["Acme\\Hello\\HelloServiceProvider"]
+        }
+    },
+    "minimum-stability": "stable"
+}
